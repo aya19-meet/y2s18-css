@@ -2,3 +2,8 @@ body {
 	background-color: lightblue;
 	color:red;  }
 .veggie { color:green; }
+#noice {background-color: #FF8CFF}
+.container {position: relative; top: 0px;}
+.sidebar {background-color: pink; top: 0px; left:0px; position: relative}
+
+.content {position: relative; top: 0px; left: 200px; }
